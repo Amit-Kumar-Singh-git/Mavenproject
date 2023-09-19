@@ -1,11 +1,5 @@
 # New Video - https://www.youtube.com/channel/UCUl2kV5kFNjbaKNwigEj-CQ
 
-![YouTube Art](assets/175.png?raw=true "Title"
-
-
-# Support
-
-🔴 - To support my channel, I’d like to offer Mentorship/On-the-Job Support/Consulting (me@antonputra.com)
 
 # Contents
 
@@ -13,7 +7,6 @@
 
 # Social
 
-🎥 - [YouTube](https://www.youtube.com/c/AntonPutra)  
-💼 - [LinkedIn](https://www.linkedin.com/in/anton-putra)  
-🎙 - [Twitter](https://twitter.com/antonvputra)  
-📨 - me@antonputra.com  
+🎥 - [YouTube](https://www.youtube.com/channel/UCUl2kV5kFNjbaKNwigEj-CQ)  
+💼 - [LinkedIn](https://www.linkedin.com/in/amitsingh5412/)  
+📨 - amit.or.k@gmail.com  
